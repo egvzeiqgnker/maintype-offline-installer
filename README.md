@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MainType Free Installer** — MainType is a comprehensive font manager and viewer for Windows. Works without internet access, no account required. Full offline installation.
+**💻 MainType Free Installer** — MainType is a Windows font manager for organizing, previewing, and managing font collections. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About MainType
 
-MainType is a comprehensive font manager and viewer for Windows. Organize, preview, search, and manage thousands of fonts with an intuitive interface. Features include font comparison, character map browsing, font group management, duplicate detection, and one-click activation. MainType's powerful filtering and search tools help designers find exactly the right typeface for any project.
+MainType is a Windows font manager for organizing, previewing, and managing font collections. It supports font groups, tags, printing specimen sheets, and temporary font activation — providing complete control over a large font library without system bloat.
 
 ---
 
 ## ❌ Problem: MainType is hard to access
 
-- **Windows Only** — No macOS support
-- **Commercial License** — Paid software for full functionality
-- **System Integration** — Deep integration with Windows font system can occasionally conflict
-- **Performance** — Very large font databases may slow interface response
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires purchase for full feature access
+- **Interface Style** — UI design somewhat dated compared to modern font managers
+- **Competition** — Several free font managers offer similar activation and preview features
 
 ---
 
@@ -121,7 +121,7 @@ MainType is a comprehensive font manager and viewer for Windows. Organize, previ
 
 ---
 
-**MainType Free Installer** — MainType is a comprehensive font manager and viewer for Windows. Install without internet connection today!
+**MainType Free Installer** — MainType is a Windows font manager for organizing, previewing, and managing font collections. Install without internet connection today!
 
 <div align="center">
 
